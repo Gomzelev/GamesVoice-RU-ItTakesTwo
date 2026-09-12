@@ -1,0 +1,17 @@
+*.tar.zst
+*.zip
+
+GamesVoice_RU_ItTakesTwo_test/
+
+*.log
+*.tmp
+*.bak
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# GamesVoice binary localization files
+*.pak
+*.mp4

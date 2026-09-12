@@ -1,0 +1,22 @@
+GamesVoice RU — It Takes Two
+Package Version: 1.0.0
+Game: It Takes Two
+Steam AppID: 1426210
+Localization: Russian voice-over
+Provider: GamesVoice
+Package Type: Linux installation/backup package
+Created: 2026-09-13
+
+Source installation:
+SteamLibrary/steamapps/common/ItTakesTwo
+
+Localization files:
+- pakchunk0-WindowsNoEditor_9-GV-RU_P.pak
+- pakchunk0-WindowsNoEditor_P-GV-RU.pak
+- pakchunk1-WindowsNoEditor_P-GV-RU.pak
+- pakchunk4-WindowsNoEditor_P-GV-RU.pak
+- GamesVoice_Logo.mp4
+
+Important:
+This package was extracted from an already installed GamesVoice RU localization.
+Compatibility depends on the game version.

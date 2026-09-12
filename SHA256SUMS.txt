@@ -1,0 +1,5 @@
+169cf7232059f43f1449fa5515e59dbcb415bd1a94b1ebf7f91b1547c0e2c510  Nuts/Content/Paks/pakchunk0-WindowsNoEditor_9-GV-RU_P.pak
+c3377538ff771d034019c3e274209965bdf792b1da44cc4e0660867e191683e7  Nuts/Content/Paks/pakchunk0-WindowsNoEditor_P-GV-RU.pak
+e96030f8b449b9d72d14b544f89a02afc5245e1c59b31749cc0dabc668eb03a3  Nuts/Content/Paks/pakchunk1-WindowsNoEditor_P-GV-RU.pak
+5680432eb253e1da37ea8b568f5b5cfbe9435ed49724f2d1da73c260d0196798  Nuts/Content/Paks/pakchunk4-WindowsNoEditor_P-GV-RU.pak
+84c49ef2f11d596b8100fdf2ef890199c4bd480e34ac511e54db3692cb5fa530  Nuts/Content/Movies/GamesVoice_Logo.mp4

@@ -1,8 +1,13 @@
-# GamesVoice RU — It Takes Two
+# GamesVoice RU — It Takes Two / Linux - CashyOS
 
 Русская озвучка для **It Takes Two**, установленная из официального установщика GamesVoice.
 
 English version is included below.
+
+Протестировано на:
+OS: CachyOS x86_64
+Kernel: Linux 7.2.4-1-cachyos
+Shell: fish 4.9.3
 
 ---
 
